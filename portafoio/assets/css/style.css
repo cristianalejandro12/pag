@@ -1,13 +1,3 @@
-/**
-* Template Name: iPortfolio - v3.10.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -78,7 +68,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #f5f8fd;
   overflow-y: auto;
 }
 
@@ -86,8 +76,8 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  height: 110px;
-  border: 5px solid #2c2f3f;
+  height: 120px;
+  border: 3px solid #2c2f3f;
 }
 
 #header .profile h1 {
@@ -109,7 +99,7 @@ h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background:#2e7c93;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -183,7 +173,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #fff;
+  color: #3ca3c3;
 }
 
 .nav-menu a:hover i,
@@ -229,7 +219,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://wallpaperaccess.com/full/6357886.jpg") top center;
+  background: url("https://images4.alphacoders.com/439/43986.jpg") top center;
   background-size: cover;
 }
 
@@ -1082,7 +1072,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
+  background: #2e7c93;
 }
 
 #footer .copyright {
